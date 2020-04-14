@@ -7,4 +7,4 @@ This Git Repository is designed  to Understand the impact of COVID-19 across Glo
 You would require an active connection with Integrated developement Enviornment, preferably Visual Studio or Spyder, Covid-19.py file and the dataset indeed. With all this things you are pretty much ready to Proceed.
 
 # Note1:
-A part of code depicts the current situation of COVID-19 on a choropleth map for majourity of Nations. For this Particular visual the Lat & Long information is provide in a file named World.shp
+A part of code depicts the current situation of COVID-19 on a choropleth map for majourity of Nations. For this Particular visual the Lat & Long information is provide in a file named World_Map.shp. This file is also a part of current repository, So you need not to look for it.
